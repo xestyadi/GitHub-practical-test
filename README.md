@@ -1,4 +1,4 @@
-# Addy | Personal Portfolio
+# Aditya | Personal Portfolio
 
 ## Student Details
 
